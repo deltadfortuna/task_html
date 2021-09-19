@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae</title>
+</head>
+
+<body>
+  <div id="header">
+    <h1>CURRICULUM VITAE</h1>
+  </div>
+
+  <div id="content">
+    <div id="article_1">
+      <h1>BIODATA DIRI</h1>
+      <p> Nama : Delta Dewi Fortuna </p>
+      <p>Tempat, tanggal lahir: Lampung Tengah, 17 Oktober 2001</p>
+      <p>Jenis Kelamin : Perempuan</p>
+      <p>Agama : Islam</p>
+      <p>Alamat : Dusun Tegalrejo, Desa Margomulyo, Kec. Tegineneng. Kab. Pesawaran, Lampung</p>
+    </div>
+
+    <div id="article_2">
+      <h1> RIWAYAT PENIDIKAN</h1>
+      <p>SD SDN 1 Gunung Madu</p>
+      <p>SMP SMP Satya Dharma Sudjana</p>
+      <p>SMA SMAN 1 Kota Gajah</p>
+      <p>Perguruan Tinggi S1 Teknik Informatika Institut Teknologi Sumatera</p>
+
+    </div>
+  </div>
+</body>
+</html>
