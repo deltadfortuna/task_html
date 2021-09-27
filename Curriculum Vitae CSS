@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae</title>
+    <style>
+      h1{
+          font-family: "fantasy";
+          font-size: 25px;
+          text-align: center;
+      }
+      h2{
+          background-color: lightgrey;
+          font-size: 20px;
+      }
+      p{
+          background-color: white;
+          font-size: 18px;
+      }
+      pre{
+          font-family: "times new roman";
+          font-size: 15px;
+      }
+    </style>
+</head>
+
+<body>
+  <div id="header">
+    <h1>CURRICULUM VITAE</h1>
+  </div>
+
+  <div id="content">
+    <div id="article_1">
+      <h2>BIODATA DIRI</h2>
+      <pre>
+        <img src="myphoto.jpg"
+             alt="foto delta"
+        style="width:100px; height: 130px; float:right">
+        Nama                          : Delta Dewi Fortuna<br>
+        Tempat, tanggal lahir : Lampung Tengah, 17 Oktober 2001 <br>
+        Jenis Kelamin             : Perempuan <br>
+        Agama                         : Islam <br>
+        Alamat                         : Dusun Tegalrejo, Desa Margomulyo, Kec. Tegineneng. Kab. Pesawaran, Lampung <br>
+        Nomor Telepon           : 082282557311 <br>
+        Alamat Email              : delta.119140184@student.itera.ac.id
+      </pre>
+
+    </div>
+
+    <div id="article_2">
+      <h2> RIWAYAT PENDIDIKAN</h2>
+      <pre>
+        SD                          SDN 1 Gunung Madu<br>
+        SMP                       SMP Satya Dharma Sudjana<br>
+        SMA                      SMAN 1 Kota Gajah<br>
+        Perguruan Tinggi  S1 Teknik Informatika Institut Teknologi Sumatera
+      </pre>
+    </div>
+
+    <div id="article_3">
+      <h2> ORGANISASI </h2>
+      <pre>
+        Anggota UKM AKSARA        2020 - sekarang <br>
+        Anggota HMIF                        2020 - sekarang
+      </pre>
+    </div>
+
+  </div>
+</body>
+</html>
